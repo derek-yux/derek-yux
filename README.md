@@ -24,6 +24,6 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1uz0AtQeuj80-dCCBqGmpgQQMMdmzWgo4/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1fofpLfTgky5gidV42UGenqZ5JwmmH7vj/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
