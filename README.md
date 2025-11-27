@@ -5,7 +5,7 @@
 </a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,git,postgres,mysql,nodejs,react,html,css,r,selenium,flask,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,git,postgres,mysql,nodejs,react,html,css,r,selenium,flask,androidstudio,idea)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=docker,kubernetes,sklearn,c,pytorch,rails)](https://skillicons.dev)
