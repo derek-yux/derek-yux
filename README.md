@@ -5,10 +5,10 @@
 </a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,git,postgres,mysql,nodejs,react,html,css,r,selenium,flask,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,git,postgres,mysql,nodejs,react,html,css,r,selenium,androidstudio,docker)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=docker,kubernetes,aws,sklearn,c,pytorch,rails)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,aws,sklearn,c,pytorch,rails)](https://skillicons.dev)
 
 
 ### Connect with me!
