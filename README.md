@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hey!%2C+I'm+Derek+Yu...;Seeking+Summer+2026+Internships!" alt="Yue (Derek) Yu"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hey!%2C+I'm+Derek+Yu...;Seeking+Summer+2027+Internships!" alt="Yue (Derek) Yu"/>
 </a>
 
 ### Main skills
