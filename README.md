@@ -7,10 +7,10 @@
 Incoming machine learning engineering intern at Photonium (YC X25), software development engineer intern at Amazon Web Services (AWS), LLM researcher with Dr. Nick Koudas, and an open source contributor to Nvidia's CUDA Quantum with my pull requests merged into Nvidia's upcoming 0.14.0 release!
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,git,postgres,mysql,nodejs,react,html,css,r,linux,c,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,c,py,java,js,ts,git,postgres,mysql,nodejs,react,r,linux,bash,docker,threejs,ai,aws)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=kubernetes,aws,sklearn,pytorch,bash)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=kubernetes,sklearn,flask,cpp)](https://skillicons.dev)
 
 
 ### Connect with me!
