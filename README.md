@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hey!%2C+I'm+Derek+Yu...Software at AWS, ML at Photonium (YC X25), Open Source at Nvidia CUDA Quantum" alt="Yue (Derek) Yu"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hey!%2C+I'm+Derek+Yu...Software+at+AWS,+ML+at+Photonium+(YC+X25),+Open+Source+at+Nvidia+CUDA+Quantum" alt="Yue (Derek) Yu"/>
 </a>
 
 Software developer engineer intern at Amazon Web Services, previous machine learning engineering intern at Photonium (YC X25), LLM researcher with Dr. Nick Koudas, and an open source contributor to Nvidia's CUDA Quantum with my pull requests merged into Nvidia's 0.14 releases and onwards!
