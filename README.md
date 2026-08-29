@@ -2,10 +2,10 @@
 
 Software developer engineer intern at Amazon Web Services, previous machine learning engineering intern at Photonium (YC X25), LLM researcher with Dr. Nick Koudas, and an open source contributor to Nvidia's CUDA Quantum with my pull requests merged into Nvidia's 0.14 releases and onwards!
 
-- Improved throughput by 9% for all AWS r8g.48xlarge users - use our services at [https://aws.amazon.com/rds/aurora/](https://aws.amazon.com/rds/aurora/)
-- Launching for the first time in database history time-MVCC > XID-MVCC (NOPM via HammerDB) at high concurrency
+- Improved throughput by 9% for all AWS r8g.48xlarge Aurora PostgreSQL users
 - Built a DeepMind AlphaZero transformer agent that discovered optical lens design modifications unreachable by state-of-the-art gradient methods - check out Photonium at [https://www.photoniuminsight.com/](https://www.photoniuminsight.com/)
 - 4.0/4.0 GPA
+- Launching for the first time in database history time-MVCC > XID-MVCC (NOPM via HammerDB) at high concurrency at AWS
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=postgres,linux,cpp,pytorch,c,redhat,grafana,py,java,js,ts,git,mysql,nodejs,react,r,bash,docker,aws)](https://skillicons.dev)
